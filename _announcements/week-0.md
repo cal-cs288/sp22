@@ -1,8 +1,8 @@
 ---
-title: Week 0 Announcement
-week: 0
-date: 2019-04-01
+title: Announcement
 ---
 
-Hello world!
+- Lectures: Tues/Thurs 11am--12:30pm
+- Professor and GSI office hours: to be determined!
+- This schedule is tentative, as are all assignment release dates and deadlines.
 {: .fs-5 }
