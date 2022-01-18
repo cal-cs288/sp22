@@ -3,7 +3,7 @@ title: Lectures
 days:
   - date: 2022-01-18
     events:
-      "Introduction": null
+      "Introduction ([1up](slides/cs288-sp22-introduction.pdf))": null
   - date: 2022-01-20
     events:
       "Language Modeling": null
