@@ -1,5 +1,5 @@
 ---
 name: Dan Klein
 role: Instructor
-email: klein@
+email: klein@cs.berkeley.edu
 ---
