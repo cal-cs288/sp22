@@ -16,10 +16,10 @@ days:
   - date: 2022-02-01
     events:
       "Retrieval Augmentation": null
-      "HW1 Due": null
   - date: 2022-02-03
     events:
       "Question Answering": null
+      "[HW1 Due (4/2/22, 5PM)](projects/HW1.pdf)": null
   - date: 2022-02-08
     events:
       "Machine Translation": null
