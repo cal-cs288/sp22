@@ -9,7 +9,7 @@ days:
       "Introduction II": null
   - date: 2022-01-25
     events:
-      "Language Modeling": null
+      "Language Modeling ([1up](slides/cs288-sp22-lms.pdf))": null
   - date: 2022-01-27
     events:
       "Language Modeling": null
