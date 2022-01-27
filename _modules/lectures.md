@@ -3,13 +3,13 @@ title: Lectures
 days:
   - date: 2022-01-18
     events:
-      "Introduction I ([1up](slides/cs288-sp22-introduction.pdf)) ([4up](slides/cs288-sp22-introduction-4up.pdf))": null
+      "Introduction I ([1up](slides/cs288-sp22-introduction.pdf)) ([6up](slides/cs288-sp22-introduction-6up.pdf))": null
   - date: 2022-01-20
     events:
       "Introduction II": null
   - date: 2022-01-25
     events:
-      "Language Modeling ([1up](slides/cs288-sp22-lms.pdf)) ([4up](slides/cs288-sp22-lms-4up.pdf))": null
+      "Language Modeling ([1up](slides/cs288-sp22-lms.pdf)) ([6up](slides/cs288-sp22-lms-6up.pdf))": null
   - date: 2022-01-27
     events:
       "Language Modeling": null
