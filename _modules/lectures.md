@@ -6,19 +6,19 @@ days:
       "Introduction I ([1up](slides/cs288-sp22-introduction.pdf)) ([6up](slides/cs288-sp22-introduction-6up.pdf))": null
   - date: 2022-01-20
     events:
-      "Introduction II": null
+      "Introduction II": 
   - date: 2022-01-25
     events:
-      "Language Modeling ([1up](slides/cs288-sp22-lms.pdf)) ([6up](slides/cs288-sp22-lms-6up.pdf))": null
+      "Language Modeling ([1up](slides/cs288-sp22-lms.pdf)) ([6up](slides/cs288-sp22-lms-6up.pdf))":  "[J&M 3](https://web.stanford.edu/~jurafsky/slp3/3.pdf)"
   - date: 2022-01-27
     events:
-      "Language Modeling": null
+      "Language Modeling": "[E 3.0-3.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf); [J&M 6](https://web.stanford.edu/~jurafsky/slp3/6.pdf); [G 1-5](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)"
   - date: 2022-02-01
     events:
-      "Retrieval Augmentation": null
+      "Language Modeling": "[J&M 7](https://web.stanford.edu/~jurafsky/slp3/7.pdf); [Goldberg 10-11](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)"
   - date: 2022-02-03
     events:
-      "Question Answering": null
+      "Machine Translation ([1up](slides/cs288-sp22-mt.pdf))": "[IBM Model 1](slides/lecture-ibm-model1.pdf)"
       "[HW1 Due (4/2/22, 5PM)](projects/HW1.pdf)": null
   - date: 2022-02-08
     events:
