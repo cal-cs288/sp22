@@ -18,7 +18,7 @@ days:
       "Language Modeling": "[J&M 7](https://web.stanford.edu/~jurafsky/slp3/7.pdf); [Goldberg 10-11](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)"
   - date: 2022-02-03
     events:
-      "Machine Translation ([1up](slides/cs288-sp22-mt.pdf))": "[IBM Model 1](slides/lecture-ibm-model1.pdf)"
+      "Machine Translation ([1up](slides/cs288-sp22-mt.pdf)) ([6up](slides/cs288-sp22-mt-6up.pdf))":  "[J&M 10](https://web.stanford.edu/~jurafsky/slp3/10.pdf)"
       "[HW1 Due (4/2/22, 5PM)](projects/HW1.pdf)": null
   - date: 2022-02-08
     events:
