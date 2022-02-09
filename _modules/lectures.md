@@ -29,13 +29,13 @@ days:
   - date: 2022-02-15
     events:
       "Machine Translation": null
-      "HW2 Due": null
   - date: 2022-02-17
     events:
       "Guest Lecture: Ethics in NLP": null
   - date: 2022-02-22
     events:
       "Speech": null
+      "HW2 Due (23/2/22, 5pm)": null
   - date: 2022-02-24
     events:
       "Speech": null
