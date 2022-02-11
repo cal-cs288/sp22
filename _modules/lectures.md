@@ -35,7 +35,7 @@ days:
   - date: 2022-02-22
     events:
       "Speech": null
-      "HW2 Due (23/2/22, 5pm)": null
+      "[HW2 Due (23/2/22, 5pm)](projects/HW2.pdf)": null
   - date: 2022-02-24
     events:
       "Speech": null
