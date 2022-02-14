@@ -22,19 +22,19 @@ days:
       "[HW1 Due (4/2/22, 5PM)](projects/HW1.pdf)": null
   - date: 2022-02-08
     events:
-      "Statistical Machine Translation": "[J&M2 25](https://github.com/rain1024/slp2-pdf/blob/master/chapter-wise-pdf/%5B25%5D%20Machine%20Translation.pdf)"
+      "Machine Translation": "[J&M2 25](https://github.com/rain1024/slp2-pdf/blob/master/chapter-wise-pdf/%5B25%5D%20Machine%20Translation.pdf)"
   - date: 2022-02-10
     events:
-      "Statistical Machine Translation / Neural Machine Translation": null
+      "Machine Translation": null
   - date: 2022-02-15
     events:
-      "Retrieval and Question Answering": null
+      "Machine Translation": null
   - date: 2022-02-17
     events:
-      "Guest Lecture: Transformers": null
+      "Retrieval and Question Answering": null
   - date: 2022-02-22
     events:
-      "Parsing": null
+      "Guest Lecture: Transformers": null
       "[HW2 Due (23/2/22, 5pm)](projects/HW2.pdf)": null
   - date: 2022-02-24
     events:
