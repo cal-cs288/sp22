@@ -22,7 +22,7 @@ days:
       "[HW1 Due (4/2/22, 5PM)](projects/HW1.pdf)": null
   - date: 2022-02-08
     events:
-      "Statistical Machine Translation": null
+      "Statistical Machine Translation": "[J&M2 25](https://github.com/rain1024/slp2-pdf/blob/master/chapter-wise-pdf/%5B25%5D%20Machine%20Translation.pdf)"
   - date: 2022-02-10
     events:
       "Statistical Machine Translation / Neural Machine Translation": null
