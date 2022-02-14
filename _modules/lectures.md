@@ -6,7 +6,7 @@ days:
       "Introduction I ([1up](slides/cs288-sp22-introduction.pdf)) ([6up](slides/cs288-sp22-introduction-6up.pdf))": null
   - date: 2022-01-20
     events:
-      "Introduction II": 
+      "Introduction II":
   - date: 2022-01-25
     events:
       "Language Modeling ([1up](slides/cs288-sp22-lms.pdf)) ([6up](slides/cs288-sp22-lms-6up.pdf))":  "[J&M 3](https://web.stanford.edu/~jurafsky/slp3/3.pdf)"
@@ -22,47 +22,47 @@ days:
       "[HW1 Due (4/2/22, 5PM)](projects/HW1.pdf)": null
   - date: 2022-02-08
     events:
-      "Machine Translation": null
+      "Statistical Machine Translation": null
   - date: 2022-02-10
     events:
-      "Machine Translation": null
+      "Statistical Machine Translation / Neural Machine Translation": null
   - date: 2022-02-15
     events:
-      "Machine Translation": null
+      "Retrieval and Question Answering": null
   - date: 2022-02-17
     events:
-      "Guest Lecture: Ethics in NLP": null
+      "Guest Lecture: Transformers": null
   - date: 2022-02-22
     events:
-      "Speech": null
+      "Parsing": null
       "[HW2 Due (23/2/22, 5pm)](projects/HW2.pdf)": null
   - date: 2022-02-24
     events:
-      "Speech": null
-      "HW3 Due": null
+      "Parsing": null
   - date: 2022-03-01
     events:
-      "Speech": null
+      "Parsing": null
   - date: 2022-03-03
     events:
-      "Speech": null
+      "Parsing": null
+      "HW3 Due (4/3/22, 5pm)": null
   - date: 2022-03-08
     events:
-      "Parsing": null
+      "Speech": null
       "HW4 Due": null
   - date: 2022-03-10
     events:
-      "Parsing": null
+      "Speech": null
   - date: 2022-03-15
     events:
-      "Parsing": null
+      "Speech": null
   - date: 2022-03-17
     events:
-      "Parsing": null
+      "Speech": null
   - date: 2022-03-29
     events:
       "Semantics": null
-      "HW5 Due": null
+      <!-- "HW5 Due": null -->
   - date: 2022-03-31
     events:
       "Semantics": null
@@ -75,7 +75,7 @@ days:
   - date: 2022-04-12
     events:
       "Grounding and Multimodality": null
-      "HW6 Due": null
+      <!-- "HW6 Due": null -->
   - date: 2022-04-14
     events:
       "Pragmatics": null
@@ -88,7 +88,7 @@ days:
   - date: 2022-04-26
     events:
       "Historical Language Reconstruction": null
-      "HW7 Due": null
+      <!-- "HW7 Due": null -->
   - date: 2022-04-28
     events:
       "Q&A": null
@@ -98,5 +98,5 @@ days:
   - date: 2022-05-05
     events:
       "Overflow / No Lecture": null
-      "HW8 Due": null
+      <!-- "HW8 Due": null -->
 ---
