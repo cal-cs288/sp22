@@ -49,7 +49,6 @@ days:
   - date: 2022-03-08
     events:
       "Speech": null
-      "HW4 Due": null
   - date: 2022-03-10
     events:
       "Speech": null
@@ -62,7 +61,6 @@ days:
   - date: 2022-03-29
     events:
       "Semantics": null
-      <!-- "HW5 Due": null -->
   - date: 2022-03-31
     events:
       "Semantics": null
@@ -75,7 +73,6 @@ days:
   - date: 2022-04-12
     events:
       "Grounding and Multimodality": null
-      <!-- "HW6 Due": null -->
   - date: 2022-04-14
     events:
       "Pragmatics": null
@@ -88,7 +85,6 @@ days:
   - date: 2022-04-26
     events:
       "Historical Language Reconstruction": null
-      <!-- "HW7 Due": null -->
   - date: 2022-04-28
     events:
       "Q&A": null
@@ -98,5 +94,4 @@ days:
   - date: 2022-05-05
     events:
       "Overflow / No Lecture": null
-      <!-- "HW8 Due": null -->
 ---
