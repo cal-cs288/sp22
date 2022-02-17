@@ -31,7 +31,7 @@ days:
       "Machine Translation": null
   - date: 2022-02-17
     events:
-      "Retrieval and Question Answering": null
+      "Retrieval and Question Answering ([1up](slides/cs288-sp22-qa.pdf))": null
   - date: 2022-02-22
     events:
       "Guest Lecture: Transformers": null
