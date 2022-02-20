@@ -19,7 +19,7 @@ days:
   - date: 2022-02-03
     events:
       "Machine Translation ([1up](slides/cs288-sp22-mt.pdf)) ([6up](slides/cs288-sp22-mt-6up.pdf))":  "[J&M 10](https://web.stanford.edu/~jurafsky/slp3/10.pdf)"
-      "[HW1 Due (4/2/22, 5PM)](projects/HW1.pdf)": null
+      "[HW1 Due (Feb 4, 5PM)](projects/HW1.pdf)": null
   - date: 2022-02-08
     events:
       "Machine Translation": "[J&M2 25](https://github.com/rain1024/slp2-pdf/blob/master/chapter-wise-pdf/%5B25%5D%20Machine%20Translation.pdf)"
@@ -35,7 +35,7 @@ days:
   - date: 2022-02-22
     events:
       "Guest Lecture: Transformers": null
-      "[HW2 Due (23/2/22, 5pm)](projects/HW2.pdf)": null
+      "[HW2 Due (Feb 23, 5pm)](projects/HW2.pdf)": null
   - date: 2022-02-24
     events:
       "Parsing": null
@@ -45,7 +45,7 @@ days:
   - date: 2022-03-03
     events:
       "Parsing": null
-      "HW3 Due (4/3/22, 5pm)": null
+      "HW3 Due (Mar 4, 5pm)": null
   - date: 2022-03-08
     events:
       "Speech": null
