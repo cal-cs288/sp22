@@ -34,7 +34,7 @@ days:
       "Retrieval and Question Answering ([1up](slides/cs288-sp22-qa.pdf))": null
   - date: 2022-02-22
     events:
-      "Guest Lecture: Transformers": null
+      "Guest Lecture: Transformers ([1up](slides/cs288-sp22-transformers.pdf))": null
       "[HW2 Due (Feb 23, 5pm)](projects/HW2.pdf)": null
   - date: 2022-02-24
     events:
