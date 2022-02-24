@@ -38,7 +38,7 @@ days:
       "[HW2 Due (Feb 23, 5pm)](projects/HW2.pdf)": null
   - date: 2022-02-24
     events:
-      "Parsing": null
+      "Parsing ([1up](slides/cs288-sp22-syntax.pdf)) ([6up](slides/cs288-sp22-syntax-6up.pdf))": "[J&M 13](https://web.stanford.edu/~jurafsky/slp3/13.pdf)"
   - date: 2022-03-01
     events:
       "Parsing": null
