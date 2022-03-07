@@ -45,7 +45,6 @@ days:
   - date: 2022-03-03
     events:
       "Parsing": null
-      "HW3 Due (Mar 7, 11:59pm)": null
   - date: 2022-03-08
     events:
       "Speech": null
@@ -55,6 +54,7 @@ days:
   - date: 2022-03-15
     events:
       "Speech": null
+      "[HW3 Due (Mar 16, 11:59pm)](projects/HW3.pdf)": null
   - date: 2022-03-17
     events:
       "Speech": null
