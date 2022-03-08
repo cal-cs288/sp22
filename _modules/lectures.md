@@ -47,7 +47,7 @@ days:
       "Parsing": null
   - date: 2022-03-08
     events:
-      "Speech": null
+      "Neural Parsing ([1up](slides/cs288-sp22-parsing.pdf)) ([6up](slides/cs288-sp22-parsing-4up.pdf))"
   - date: 2022-03-10
     events:
       "Speech": null
