@@ -50,7 +50,7 @@ days:
       "Neural Parsing ([1up](slides/cs288-sp22-parsing.pdf)) ([4up](slides/cs288-sp22-parsing-4up.pdf))": null
   - date: 2022-03-10
     events:
-      "Speech": null
+      "Speech ([1up](slides/cs288-sp22-speech.pdf)) ([4up](slides/cs288-sp22-speech-4up.pdf))": "[J&M 26](https://web.stanford.edu/~jurafsky/slp3/26.pdf)"
   - date: 2022-03-15
     events:
       "Speech": null
