@@ -60,10 +60,10 @@ days:
       "Speech": null
   - date: 2022-03-29
     events:
-      "Semantics": null
+      "Speech": null
   - date: 2022-03-31
     events:
-      "Semantics": null
+      "Semantics ([1up]((slides/cs288-sp22-semantics.pdf)) ([4up]((slides/cs288-sp22-semantics-4up.pdf))": null
   - date: 2022-04-05
     events:
       "Dialogue": null
