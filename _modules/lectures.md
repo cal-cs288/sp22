@@ -66,32 +66,26 @@ days:
       "Semantics ([1up](slides/cs288-sp22-semantics.pdf)) ([4up](slides/cs288-sp22-semantics-4up.pdf))": null
   - date: 2022-04-05
     events:
-      "Dialogue": null
+      "Semantics": null
   - date: 2022-04-07
     events:
-      "Knowledge Graphs": null
+      "Guest Lecture: Pragmatics (Nicholas Tomlin)": null
   - date: 2022-04-12
     events:
-      "Grounding and Multimodality": null
+      "Guest Lecture: Grounding and Vision (Rodolfo Corona)": null
   - date: 2022-04-14
     events:
-      "Pragmatics": null
+      "Guest Lecture: Robustness and Security (Eric Wallace)": null
   - date: 2022-04-19
     events:
-      "Guest Lecture: Datasets and Benchmarking": null
+      "Dialog": null
   - date: 2022-04-21
     events:
-      "Model Interpretability": null
+      "Guest Lecture: Fairness in NLP (Rediet Abebe and Eve Fleisig)": null
   - date: 2022-04-26
     events:
       "Historical Language Reconstruction": null
   - date: 2022-04-28
     events:
-      "Q&A": null
-  - date: 2022-05-03
-    events:
-      "Overflow / No Lecture": null
-  - date: 2022-05-05
-    events:
-      "Overflow / No Lecture": null
+      "Crosswords": null
 ---
