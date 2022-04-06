@@ -67,6 +67,7 @@ days:
   - date: 2022-04-05
     events:
       "Semantics": null
+      "[HW4 Due (Apr 15, 11:59pm)](projects/HW4.pdf)": null
   - date: 2022-04-07
     events:
       "Guest Lecture: Pragmatics (Nicholas Tomlin)": null
