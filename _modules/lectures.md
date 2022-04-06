@@ -34,7 +34,7 @@ days:
       "Retrieval and Question Answering ([1up](slides/cs288-sp22-qa.pdf))": null
   - date: 2022-02-22
     events:
-      "Guest Lecture: Transformers ([1up](slides/cs288-sp22-transformers.pdf))": null
+      "Transformers (Nikita Kitaev) ([1up](slides/cs288-sp22-transformers.pdf))": null
       "[HW2 Due (Feb 23, 5pm)](projects/HW2.pdf)": null
   - date: 2022-02-24
     events:
@@ -70,23 +70,23 @@ days:
       "[HW4 Due (Apr 15, 11:59pm)](projects/HW4.pdf)": null
   - date: 2022-04-07
     events:
-      "Guest Lecture: Pragmatics (Nicholas Tomlin)": null
+      "Pragmatics (Nicholas Tomlin)": null
   - date: 2022-04-12
     events:
-      "Guest Lecture: Grounding and Vision (Rodolfo Corona)": null
+      "Grounding and Vision (Rodolfo Corona)": null
   - date: 2022-04-14
     events:
-      "Guest Lecture: Robustness and Security (Eric Wallace)": null
+      "Robustness and Security (Eric Wallace)": null
   - date: 2022-04-19
     events:
       "Dialog": null
   - date: 2022-04-21
     events:
-      "Guest Lecture: Fairness in NLP (Rediet Abebe and Eve Fleisig)": null
+      "Fairness in NLP (Rediet Abebe and Eve Fleisig)": null
   - date: 2022-04-26
     events:
       "Historical Language Reconstruction": null
   - date: 2022-04-28
     events:
-      "Crosswords": null
+      "Crosswords (Nicholas Tomlin)": null
 ---
