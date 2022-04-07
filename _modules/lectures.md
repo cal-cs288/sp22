@@ -70,7 +70,7 @@ days:
       "[HW4 Due (Apr 15, 11:59pm)](projects/HW4.pdf)": null
   - date: 2022-04-07
     events:
-      "Pragmatics (Nicholas Tomlin)": null
+      "Pragmatics (Nicholas Tomlin) ([1up](slides/cs288-sp22-pragmatics.pdf)) ([4up](slides/cs288-sp22-pragmatics-4up.pdf))": null
   - date: 2022-04-12
     events:
       "Grounding and Vision (Rodolfo Corona)": null
