@@ -73,7 +73,7 @@ days:
       "Pragmatics (Nicholas Tomlin) ([1up](slides/cs288-sp22-pragmatics.pdf)) ([4up](slides/cs288-sp22-pragmatics-4up.pdf))": null
   - date: 2022-04-12
     events:
-      "Grounding and Vision (Rodolfo Corona)": null
+      "Grounding and Vision (Rodolfo Corona) ([1up](slides/cs288-sp22-grounding.pdf)) ([4up](slides/cs288-sp22-grounding-4up.pdf))": null
   - date: 2022-04-14
     events:
       "Robustness and Security (Eric Wallace)": null
@@ -88,5 +88,5 @@ days:
       "Historical Language Reconstruction": null
   - date: 2022-04-28
     events:
-      "Crosswords (Nicholas Tomlin)": null
+      "TBD": null
 ---
