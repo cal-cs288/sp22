@@ -83,6 +83,7 @@ days:
   - date: 2022-04-21
     events:
       "Fairness in NLP (Rediet Abebe and Eve Fleisig)": null
+      "[HW5 Due (Apr 24, 11:59pm)](projects/HW5.pdf)": null
   - date: 2022-04-26
     events:
       "Historical Language Reconstruction": null
