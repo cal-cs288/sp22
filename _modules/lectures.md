@@ -82,7 +82,7 @@ days:
       "Dialog": null
   - date: 2022-04-21
     events:
-      "Fairness in NLP (Rediet Abebe and Eve Fleisig)": null
+      "Fairness in NLP (Rediet Abebe and Eve Fleisig) ([1up](slides/cs288-sp22-ethics.pdf))": null
       "[HW5 Due (Apr 24, 11:59pm)](projects/HW5.pdf)": null
   - date: 2022-04-26
     events:
