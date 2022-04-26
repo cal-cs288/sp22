@@ -86,8 +86,8 @@ days:
       "[HW5 Due (Apr 24, 11:59pm)](projects/HW5.pdf)": null
   - date: 2022-04-26
     events:
-      "Historical Language Reconstruction": null
+      "Special Topics Language Reconstruction, Crossword Solving, and Silent Speech": null
   - date: 2022-04-28
     events:
-      "TBD": null
+      "Panel: The Future of NLP": null
 ---
