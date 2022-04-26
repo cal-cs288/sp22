@@ -86,7 +86,7 @@ days:
       "[HW5 Due (Apr 24, 11:59pm)](projects/HW5.pdf)": null
   - date: 2022-04-26
     events:
-      "Special Topics Language Reconstruction, Crossword Solving, and Silent Speech": null
+      "Special Topics: Language Reconstruction, Crossword Solving, and Silent Speech": null
   - date: 2022-04-28
     events:
       "Panel: The Future of NLP": null
