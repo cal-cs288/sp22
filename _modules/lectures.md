@@ -90,4 +90,5 @@ days:
   - date: 2022-04-28
     events:
       "Panel: The Future of NLP": null
+      "[HW6 Due (May 6, 11:59pm)](projects/HW6.pdf)": null
 ---
